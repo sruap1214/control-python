@@ -1,1 +1,3 @@
 control~=0.10.0
+tclab==1.0.0
+matplotlib
